@@ -11,7 +11,7 @@
 
 ## General Information
 
-This is a JSP servlet application to efficiently monitor and track the inward/outward movement of products in a office and inlcudes multiple screen for diffrent roles like guard to verify the movement of products, supervisor to initiate the movement of products, and so on.
+This is a JSP servlet application to efficiently monitor and track the inward/outward movement of products in an office and includes multiple screens for different roles like a guard to verify the movement of products, a supervisor to initiate the movement of products, and so on.
 
 ### Steps to make project your own
 
